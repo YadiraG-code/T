@@ -447,7 +447,8 @@ footer {
   opacity: 1;
 }
 
-/* small phones, tablets, large smartphones */  
+/* small phones, tablets, large smartphones */
+
 @media (max-width: 768px) {
   nav {
     height: 68px;
@@ -476,6 +477,7 @@ footer {
 }
 
 /* SMALL PHONES */
+
 @media (max-width: 480px) {
   .nav__link:not(:last-child) {
     display: none;
